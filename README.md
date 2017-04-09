@@ -17,10 +17,10 @@ Easily create Question and Answer system to your wordpress site.
 * Click on database earlier noted down
 * Create new table named Quiz with 3 columns
 * Set columns like these
-![Quiz table columns]({{site.baseurl}}//images/quiztable.PNG)
+![Quiz table columns](/images/quiztable.PNG)
 * Create another table named Questions with 8 columns
 * Set columns like these
-![Questions table columns]({{site.baseurl}}//images/questionstable.PNG)
+![Questions table columns](/images/questionstable.PNG)
 
 ### Upload pages
 * Note down your active theme name
